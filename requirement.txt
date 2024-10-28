@@ -1,0 +1,8 @@
+pandas
+nltk
+transformers
+plotly
+matplotlib
+torch
+torchvision 
+torchaudio
